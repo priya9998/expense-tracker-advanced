@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "title": "food",
+      "amount": 2000,
+      "transactionType": "Expense",
+      "category": "Food",
+      "date": "2026-06-22",
+      "id": "65STAMhBY58"
+    },
+    {
+      "id": "eJxYFNQLB20",
+      "title": "salary",
+      "amount": 50000,
+      "date": "2026-06-22",
+      "category": "Salary"
+    },
+    {
+      "title": "Fees",
+      "amount": 1000,
+      "transactionType": "Expense",
+      "category": "Education",
+      "date": "2026-06-22",
+      "id": "uoT6jJwPg_g"
+    },
+    {
+      "title": "games",
+      "amount": 5000,
+      "transactionType": "Expense",
+      "category": "Entertainment",
+      "date": "2026-06-17",
+      "id": "dimV5fIEOp8"
+    },
+    {
+      "title": ".",
+      "amount": 5000,
+      "transactionType": "Income",
+      "category": "Travel",
+      "date": "2026-06-22",
+      "id": "evqEJ1L949o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

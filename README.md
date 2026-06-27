@@ -1,4 +1,5 @@
-Note # This project currently uses a localhost backend for development. Live deployment will be added after backend deployment.
+#Note: This project currently uses a localhost backend for development. Live deployment will be added after backend deployment.
+
 #Expense Tracker Advanced
 
 A React-based Expense Tracker application to manage income and expenses efficiently.
